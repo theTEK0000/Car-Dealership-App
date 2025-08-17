@@ -1,0 +1,14 @@
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\bin\Debug\net8.0\araba1.exe
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\bin\Debug\net8.0\araba1.deps.json
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\bin\Debug\net8.0\araba1.runtimeconfig.json
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\bin\Debug\net8.0\araba1.dll
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\bin\Debug\net8.0\araba1.pdb
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\obj\Debug\net8.0\araba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\obj\Debug\net8.0\araba1.AssemblyInfoInputs.cache
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\obj\Debug\net8.0\araba1.AssemblyInfo.cs
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\obj\Debug\net8.0\araba1.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\obj\Debug\net8.0\araba1.dll
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\obj\Debug\net8.0\refint\araba1.dll
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\obj\Debug\net8.0\araba1.pdb
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\obj\Debug\net8.0\araba1.genruntimeconfig.cache
+C:\Users\Volkan\OneDrive\Masaüstü\araba1\araba1\obj\Debug\net8.0\ref\araba1.dll
